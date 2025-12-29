@@ -1,0 +1,12 @@
+Amazon CloudWatch is a monitoring and observability service provided by AWS (Amazon Web Services). 
+It helps you collect, track, visualize, and act on metrics, logs, and events
+ from your AWS resources and applications.
+
+ in simple
+
+ CloudWatch = monitoring + loging + alarms + dashboards
+
+ where it is used?
+ => it is used to monitor ec2, rds , lambda performance
+ => set alerts ( based on cpu, memory, request latency)
+ => create dashboardsfor devops/sres visibility and many more in aws
