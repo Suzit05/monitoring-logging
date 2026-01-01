@@ -34,3 +34,5 @@ resource "aws_cloudwatch_metric_alarm" "s3_4xx_alarm" {
     StorageType= "AllStorageTypes"
   }
 }
+
+

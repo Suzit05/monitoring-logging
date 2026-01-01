@@ -1,0 +1,2 @@
+1.create a s3 bucket that will monitor cloudwatch montir using cloudwatch alrm
+if the size exceed over 10 to 100mb
