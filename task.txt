@@ -1,2 +1,9 @@
+task1----------------
 1.create a s3 bucket that will monitor cloudwatch montir using cloudwatch alrm
 if the size exceed over 10 to 100mb
+
+--------task2--------
+1. create a cloudwatch alarm for cpuutilization if exceed greater than 80%
+2.create a cloudwatch alarm for high network out on ec2
+3. add an email notification if applicable
+
